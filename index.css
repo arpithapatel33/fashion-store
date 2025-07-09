@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+div{
+    background-color: darkseagreen;
+}
+.products{
+    display: flex;
+    gap: 100px;
+}
+.items{
+    text-align: center;
+}
+.itemsimg{
+    width: 150px;
+    height: auto ;
+}
+div9{
+    background-color: palevioletred;
+    text-align: center;
+    h1{
+        text-align: center;
+        font-style: normal;
+        font-size: 50px;
+        color: violet;
+    }
+
+}
+div10{
+    background-color: mediumpurple;
+    text-align: center;
+    table{
+        width: 700px;
+        margin: auto;
+        height: 700px;
+
+    }
+}
